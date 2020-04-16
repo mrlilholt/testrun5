@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="#lw$-a6bYvt@63^byXR_">mySprite</variable><variable type="KIND_SpriteKind" id="SU.l!*6Hg%)m(h|P4a*+">Player</variable><variable type="KIND_SpriteKind" id="Qurydgh(R-gr+b3g/S_|">Projectile</variable><variable type="KIND_SpriteKind" id="Y:a[{AP}rWj)Qj%/#GM-">Food</variable><variable type="KIND_SpriteKind" id="0LOM`tI)an6:;zZ{UJ1Z">Enemy</variable></variables><block type="pxt-on-start" x="0" y="0"><statement name="HANDLER"><block type="variables_set"><field name="VAR" id="#lw$-a6bYvt@63^byXR_">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="#lw$-a6bYvt@63^byXR_">mySprite</variable><variable type="KIND_SpriteKind" id="SU.l!*6Hg%)m(h|P4a*+">Player</variable><variable type="KIND_SpriteKind" id="Qurydgh(R-gr+b3g/S_|">Projectile</variable><variable type="KIND_SpriteKind" id="Y:a[{AP}rWj)Qj%/#GM-">Food</variable><variable type="KIND_SpriteKind" id="0LOM`tI)an6:;zZ{UJ1Z">Enemy</variable></variables><block type="pxt-on-start" id="6GmqH{59sQyDD._EZ3il" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="bB.fj;o}?.tLwacK,r9R"><field name="VAR" id="#lw$-a6bYvt@63^byXR_">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="c.@`5e8/L}#am=(Ma41N"><value name="img"><shadow type="screen_image_picker" id="LFek!;^Am#5d!K1v7OeW"><field name="img">img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="=dyFsidytCqa`0Y`iWNm"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
